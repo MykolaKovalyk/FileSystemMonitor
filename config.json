@@ -1,0 +1,12 @@
+{
+  "outputDir": "Logs",
+  "activeLogPath": "record.json",
+  
+  "saveChangesEverySeconds": 3.0,
+  "saveAfterChangesRecorded": -1,
+
+  "maxLogFileSize": 50000,
+  "outputLogFileEverySeconds": -1,
+
+  "maxConnectAttempts": 25
+}
